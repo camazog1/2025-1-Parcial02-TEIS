@@ -12,7 +12,7 @@ python3 -m venv venv
 source venv/bin/activate 
 
 cd app
-pip install -r pip install -r requirements.txt
+pip install -r requirements.txt
 
 python app.py
 ```
